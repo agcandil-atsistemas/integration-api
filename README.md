@@ -11,4 +11,4 @@ This sample Spring Boot application is used into GITHUB integration blog.
 > mvn spring-boot:run
 
 
-## Add traceability with issue 
+## Add traceability with issue and fixed
