@@ -3,11 +3,12 @@
 This sample Spring Boot application is used into GITHUB integration blog.
 
 ## Build
-> ``` [bash]
-  mvn clean install
- ```
+
+> mvn clean install
 
 ## Run
-> ``` [bash]
-  mvn spring-boot:run
- ```
+
+> mvn spring-boot:run
+
+
+## Add traceability with issue and fixed
